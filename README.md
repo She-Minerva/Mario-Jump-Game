@@ -1,4 +1,5 @@
 Mario Jump Game
+
 Um simples jogo de pular baseado no personagem Mario, onde o objetivo é evitar colidir com o tubo que se move da direita para a esquerda. O jogo é inspirado em clássicos de plataforma e é desenvolvido usando tecnologias web modernas.
 
 Tecnologias Utilizadas:
